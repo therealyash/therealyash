@@ -3,9 +3,11 @@
 
 
 👋 Hi there! I'm Yashraj Limkar from Mumbai, India, currently pursuing a Master of Computer Applications with a specialization in Machine Learning. With a strong foundation in data analysis, I bring a unique blend of technical expertise and creative problem-solving to every project.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashraj%20Limkar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraj-limkar/)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-### Yashraj Limkar
+
 
 **Background:**
 - **Education:** BBA from Amity University.
