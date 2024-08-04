@@ -37,14 +37,14 @@ _"Only those who attempt the absurd can achieve the impossible."_ – Albert Ein
 - Exploring new cultures and cuisines
 - Traveling and Trekking
 
-**Medium Blog**
+## **Medium Blog**
 
 [![Yashraj Limkar](https://github-readme-medium.vercel.app/?username=therealyash&limit=2&bg=ffffff&text=ff0000)](https://pydatariddles.com)
 
 Always seeking new challenges and opportunities to grow, I'm excited to push the boundaries in the dynamic field of data science. Let’s connect and create something amazing!
 
 
-## Visitor Count **
+## **Visitor Count**
 
 ![Visitor Count](https://profile-counter.glitch.me/{therealyash}/count.svg)
 
