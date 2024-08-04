@@ -3,6 +3,12 @@
 👋 Hi there! I'm Yashraj Limkar from Mumbai, India, currently pursuing a Master of Computer Applications with a specialization in Machine Learning. With a strong foundation in data analysis, I bring a unique blend of technical expertise in machine learning, neural networks and deep learning.
 
 
+<div> 
+  <a href="https://www.linkedin.com/in/yashrajlimkar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: yashraj1416@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+
   ![Snake animation](https://github.com/therealyash/therealyash/blob/main/github-contribution-grid-snake.svg)
 
 
@@ -14,6 +20,8 @@ _"Only those who attempt the absurd can achieve the impossible."_ – Albert Ein
 ## **Stats**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=therealyash)](https://git.io/streak-stats)
+
+
 
 
 ## Joke of the Day
