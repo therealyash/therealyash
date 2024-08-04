@@ -5,7 +5,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{therealyash}/count.svg)
 
 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/therealyash/therealyash/blob/03d95dba13f8b65e0c6ad0e8d71abbf7940540bd/github-contribution-grid-snake.svg)
 
 
 ## Something to ponder 🌟 
