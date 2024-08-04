@@ -3,7 +3,7 @@
 👋 Hi there! I'm Yashraj Limkar from Mumbai, India, currently pursuing a Master of Computer Applications with a specialization in Machine Learning. With a strong foundation in data analysis, I bring a unique blend of technical expertise in machine learning, neural networks and deep learning.
 
 
-  ![Snake animation](github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/therealyash/therealyash/blob/main/github-contribution-grid-snake.svg)
 
 
 ## Something to ponder 🌟 
