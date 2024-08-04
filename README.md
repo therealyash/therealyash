@@ -1,17 +1,26 @@
-## Hi there 👋
+## Hey I'm Yashraj 👋
 
-<!--
-**therealyash/therealyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi there! I'm Yashraj Limkar from Mumbai, India, currently pursuing a Master of Computer Applications with a specialization in Machine Learning. With a strong foundation in data analysis, I bring a unique blend of technical expertise and creative problem-solving to every project.
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+### Yashraj Limkar
+
+**Background:**
+- **Education:** BBA from Amity University.
+- **Internship:** Data Analyst at Voltago Electricals, where I automated processes using Python.
+
+**Current Endeavors:**
+- **Blogger:** Author at [pydatariddles](https://pydatariddles.com), sharing insights on Machine Learning.
+- **AI Nanodegree:** Scholarship recipient in Udacity’s AI program, sponsored by Bertelsmann.
+
+**Interests:**
+- Advanced data analytics
+- Neural networks and deep learning
+- Machine learning and AI applications
+- Exploring new cultures and cuisines
+- Traveling and Trekking
+
+**Blogs**
+Always seeking new challenges and opportunities to grow, I'm excited to push the boundaries in the dynamic field of data science. Let’s connect and create something amazing!
