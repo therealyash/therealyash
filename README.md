@@ -1,6 +1,6 @@
 ## Hey I'm Yashraj 👋
 
-👋 Hi there! I'm Yashraj Limkar from Mumbai, India, currently pursuing a Master of Computer Applications with a specialization in Machine Learning. With a strong foundation in data analysis, I bring a unique blend of technical expertise in machine learning, neural networks and deep learning.
+👋 Hi there! I'm Yashraj Limkar from Mumbai, India, currently pursuing Master of Computer Applications with a specialization in Machine Learning. With a strong foundation in data analysis, I bring a unique blend of technical expertise in machine learning, neural networks and deep learning.
 
 
 <div> 
