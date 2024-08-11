@@ -1,3 +1,4 @@
+
 ## Hey I'm Yashraj 👋
 
 👋 Hi there! I'm Yashraj Limkar from Mumbai, India, currently pursuing Master of Computer Applications with a specialization in Machine Learning. With a strong foundation in data analysis, I bring a unique blend of technical expertise in machine learning, neural networks and deep learning.
@@ -10,6 +11,15 @@
 <a href="https://therealyash.github.io" target="_blank">
   <img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logo=globe&logoColor=white">
 </a>
+
+<a href="(https://medium.com/@therealyash)" target="_blank">
+  <img src="https://img.shields.io/badge/-Medium Blog-%23333?style=for-the-badge&logo=globe&logoColor=white">
+</a>
+
+<a href="(https://pydatariddles.com)" target="_blank">
+  <img src="https://img.shields.io/badge/-PyDataRiddles-%23333?style=for-the-badge&logo=globe&logoColor=white">
+</a>
+
 
  </br>
 </br>
@@ -50,9 +60,7 @@ _"Only those who attempt the absurd can achieve the impossible."_ – Albert Ein
 - Exploring new cultures and cuisines
 - Traveling and Trekking
 
-## **Medium Blog**
 
-[![Yashraj Limkar](https://github-readme-medium.vercel.app/?username=therealyash&limit=2&bg=ffffff&text=ff0000)](https://pydatariddles.com)
 
 Always seeking new challenges and opportunities to grow, I'm excited to push the boundaries in the dynamic field of data science. Let’s connect and create something amazing!
 
