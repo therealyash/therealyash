@@ -46,7 +46,8 @@ _"Only those who attempt the absurd can achieve the impossible."_ – Albert Ein
 
 
 ## **Background**
-- **Education:** BBA from Amity University.
+- **Education:**  Masters of Computer Applications from VJTI, Mumbai
+-                 Bachelor of Business Administration (Data Analytics) from Amity University.
 - **Internship:** Data Analyst at Voltago Electricals, where I automated processes using Python.
 
 ## **Current Endeavors**
